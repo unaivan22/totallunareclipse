@@ -15,8 +15,8 @@ body {
  height: 150px;
  transform: translate(-50%, -50%);
  border-radius: 50%;
- background: #DBE6E0;
- box-shadow: 0 0 50px rgba(219, 230, 224, 1);
+ background: #F6C18D;
+ box-shadow: 0 0 50px rgb(246,193,141);
 }
 
 #sun {
@@ -26,7 +26,7 @@ body {
  width: 150px;
  height: 150px;
  border-radius: 50%;
- background: #F6C18D;
+ background: #010101;
  box-shadow: inset 0 0 50px rgba(150, 150, 150, 0.2);
  transform-origin: 50% 150%;
  transform: rotate(-60deg);
